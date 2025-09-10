@@ -1,4 +1,5 @@
-hours = int(input("Enter the number of hours here: "))
+# hours = int(input("Enter the number of hours here: "))
+hours = 2
 
 seconds = hours * 3600
 
