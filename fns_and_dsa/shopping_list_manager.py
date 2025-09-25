@@ -12,7 +12,7 @@ def main():
         choice = int(input("Enter your choice: "))
 
         if choice == '1':
-            item = input("Enter item to add on the list: ")
+            item = input("Enter the item to add: ")
             if item in shopping_list:
                 print(f"ERROR.{item} is already in the list.")
             else:
