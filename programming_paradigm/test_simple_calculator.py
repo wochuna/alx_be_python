@@ -40,4 +40,3 @@ class TestSimpleCalculator(unittest.TestCase):
         self.assertEqual(self.calc.divide(-6, 0), None)
 
 
-# Remember to write additional test methods for subtract, multiply, and divide.
